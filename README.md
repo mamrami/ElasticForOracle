@@ -2,8 +2,11 @@
 Sync your Search engine with your data from Oracle database. 
 
 
-
 # Getting started
+ 
+
+
+# Installation
 1. Download the Util packages
 2. Connect as DBA 
 ```
@@ -27,7 +30,17 @@ create user SYNC_ADMIN identified by <password> default tablespace SYNC_TS;
 ```
 SQLPLUS> conn SYNC_ADMIN
 ```
-example: Elasic for Oracle.
+7. Create SYNC_ADMIN tables
+```
+@create_schema.sql
+```
+
+# Create Outbound Synchronization
+
+# Create Inbound Synchronization
+
+# Create Extranl Index Service
+
 
 
 
