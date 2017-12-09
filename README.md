@@ -42,9 +42,9 @@ SQLPLUS> conn SYNC_ADMIN
 # Create Extranl Index Service
 
 # USE CASES
-# Applicaiton analysis
-# Oracle Performance Monitoring
-# External Indexing and Text analysis
+### Applicaiton analysis
+### Oracle Performance Monitoring
+### External Indexing and Text analysis
 
 
 
