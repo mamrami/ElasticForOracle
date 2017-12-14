@@ -3,9 +3,19 @@ Sync your Search engine with your data from Oracle database.
 
 
 # Getting started
+
+Sync Admin allows you to sync data from an Oracle database with Outbound Rest supported platforms. 
+This is usefull for sync data with Elasticsearch / Solar / Kafka and more. use External Indexes and Text Services. 
+
+version 0.1 support, by Technology:
+ElasticSearch:
+ - Index Mapping
+ - Dynamin Index Name
+ - Complete refresh
+ - Schedule sync 
+ - User/Password
+
  
-
-
 # Installation
 1. Download the Util packages
 2. Connect as DBA 
